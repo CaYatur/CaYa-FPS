@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7ee90436cad88754e89309fe1dcc303e
+  - enabled: 1
+    path: Assets/Scenes/NormalGame.unity
+    guid: 6dc858d3841967d44951fce3b5f7adc8
+  - enabled: 1
+    path: Assets/Scenes/DeadWar.unity
+    guid: e868b20b4ea994243b40769ff6cba685
+  - enabled: 1
+    path: Assets/Scenes/Trainer.unity
+    guid: 5eaa7b0e2c42ffe4ca1893f455b6d960
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 76c240fc28ca985479fe5afe38404b9e
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 273c77c44d7b16840b32955b141ee025
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
