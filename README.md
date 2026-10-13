@@ -23,4 +23,4 @@ Depodan çıkarılan üçüncü taraf içerik (lisans gereği): Pixabay ses efek
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
